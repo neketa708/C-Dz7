@@ -3,3 +3,13 @@ D:\gek\c\DZ\C-Dz7\zad3\obj\Debug\net6.0\zad3.GeneratedMSBuildEditorConfig.editor
 D:\gek\c\DZ\C-Dz7\zad3\obj\Debug\net6.0\zad3.AssemblyInfoInputs.cache
 D:\gek\c\DZ\C-Dz7\zad3\obj\Debug\net6.0\zad3.AssemblyInfo.cs
 D:\gek\c\DZ\C-Dz7\zad3\obj\Debug\net6.0\zad3.csproj.CoreCompileInputs.cache
+D:\gek\c\DZ\C-Dz7\zad3\bin\Debug\net6.0\zad3.exe
+D:\gek\c\DZ\C-Dz7\zad3\bin\Debug\net6.0\zad3.deps.json
+D:\gek\c\DZ\C-Dz7\zad3\bin\Debug\net6.0\zad3.runtimeconfig.json
+D:\gek\c\DZ\C-Dz7\zad3\bin\Debug\net6.0\zad3.dll
+D:\gek\c\DZ\C-Dz7\zad3\bin\Debug\net6.0\zad3.pdb
+D:\gek\c\DZ\C-Dz7\zad3\obj\Debug\net6.0\zad3.dll
+D:\gek\c\DZ\C-Dz7\zad3\obj\Debug\net6.0\refint\zad3.dll
+D:\gek\c\DZ\C-Dz7\zad3\obj\Debug\net6.0\zad3.pdb
+D:\gek\c\DZ\C-Dz7\zad3\obj\Debug\net6.0\zad3.genruntimeconfig.cache
+D:\gek\c\DZ\C-Dz7\zad3\obj\Debug\net6.0\ref\zad3.dll
